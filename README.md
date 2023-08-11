@@ -40,7 +40,7 @@ next we move to the directory we created and activate the virtual environment:  
 <img src="https://i.imgur.com/7tnticb.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-we  can also deactivate the virtual environment:  <br/>
+we can also deactivate the virtual environment once we are finished:  <br/>
 <img src="https://i.imgur.com/GbRGy2U.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
